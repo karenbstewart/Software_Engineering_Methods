@@ -2,7 +2,9 @@
 
 master build status - [![Build Status](https://travis-ci.org/8e6/sem.svg?branch=master)](https://travis-ci.org/8e6/sem)
 
-development build status - 
+development build status -
+ 
+ feature/mongoDB - [![Build Status](https://travis-ci.org/8e6/sem.svg?branch=feature%2Fmongo-intergration)](https://travis-ci.org/8e6/sem)
 
 License - [![LICENSE](https://img.shields.io/github/license/8e6/sem.svg?style=flat-square)](https://github.com/8e6/sem/blob/master/LICENSE)
 
