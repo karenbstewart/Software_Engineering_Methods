@@ -1,0 +1,3 @@
+[submodule "db/test_db"]
+	path = db/test_db
+	url = http://github.com/datacharmer/test_db
