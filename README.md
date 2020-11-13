@@ -10,4 +10,5 @@ Release - [![Releases](https://img.shields.io/github/release/8e6/sem/all.svg?sty
 
 unique from shield.io - [![Unique](https://img.shields.io/badge/KBS-work%20in%20progress-%2343c7e8.svg?style=flat-square)](https://img.shields.io/badge/KBS-work%20in%20progress-%2343c7e8.svg)
 
+unique from shield.io - [![Unique](https://img.shields.io/badge/Author-Karen%20B%20Stewart-%2343c7e8.svg?style=flat-square)](https://img.shields.io/badge/Author-Karen%20B%20Stewart-%2343c7e8.svg)
 
